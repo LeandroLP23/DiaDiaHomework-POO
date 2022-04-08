@@ -1,0 +1,14 @@
+Stanze: Biblioteca Atrio
+Magica: N10 
+Buia: N11 torcia
+Bloccata: Laboratorio chiave ovest
+Estremi: Atrio Biblioteca
+Mago: Ciro N10 bacchetta 2
+(Ciao sono un mago)
+Cane: Rex Biblioteca
+(Sono un cane che altro vuoi sapere?)
+Strega: Silvana Atrio
+(Mi piace fare le rime)
+Attrezzi: osso 1 Atrio, chiave 1 Atrio, lanterna 2 N10, torcia 1 N10, spada 3 Laboratorio, spadone 5 Laboratorio
+Uscite: Atrio nord Biblioteca, Atrio est N11, Atrio sud N10, Atrio ovest Laboratorio, N11 est Laboratorio
+Fine
